@@ -11,7 +11,7 @@ version = '1.0.0'
 setup(
     name='deasy',
     version=version,
-    description="Simple CLI command to manage Odoo instances",
+    description="Simple CLI to manage Odoo instances",
     long_description=README + '\n\n' + NEWS,
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
