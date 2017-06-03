@@ -1,9 +1,9 @@
 Deasy Package
 =============
 
-Deasy package provide a single cli command `oo` to intercat with odoo instances
+**Deasy** package provide a single cli command ***oo*** to intercat with odoo instances
 
-**Deasy** is a Python packiage providing an easy way to
+**Deasy** is a Python package providing an easy way to
 pilot and interact with **Odoo** instances through `CLI`.
 
 Features supported:
