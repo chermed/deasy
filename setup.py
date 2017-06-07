@@ -3,16 +3,14 @@ import sys, os
 
 here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst')).read()
-NEWS = open(os.path.join(here, 'NEWS.txt')).read()
 
-
-version = '1.0.0'
+version = '2.0.0'
 
 setup(
     name='deasy',
     version=version,
     description="Simple CLI to manage Odoo instances",
-    long_description=README + '\n\n' + NEWS,
+    long_description=README,
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     ],

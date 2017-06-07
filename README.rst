@@ -18,6 +18,13 @@ Features supported:
 
 Many thanks to OdooRPC_ and Odoo_.
 
+Installation :
+==============
+
+.. code-block:: shell
+
+    pip install deasy
+
 Manage informations of Odoo instances :
 =======================================
 
@@ -145,4 +152,16 @@ Mohamed Cherkaoui <http://mohamedcherkaoui.com>
 .. _OdooRPC: https://pypi.python.org/pypi/OdooRPC/
 
 .. _Odoo: https://www.odoo.com
+
+
+
+News
+====
+
+2.0.0
+-----
+
+*Release date: 03-Jun-2017*
+
+* First stable version
 
